@@ -1,16 +1,18 @@
-import React from 'react';
 import './App.css';
-import { User } from './components';
-import AppProvider from './Provider/AppProvider';
+import { SignIn, SignUp, MainMenu } from './containers';
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+
 
 function App() {
   
   return (
-    <div>
-      <AppProvider>
-        <User />
-      </AppProvider>
-    </div>
+    <BrowserRouter>
+    <Routes>
+      <Route path='/' element={<SignIn/>}></Route> 
+      <Route path='/SignUp' element={<SignUp/>}></Route> 
+      <Route path='/MainMenu' element={<MainMenu/>}></Route> 
+    </Routes>
+    </BrowserRouter>
   );
 }
 
