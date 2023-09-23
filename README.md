@@ -1,1 +1,11 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Vqy8tqrT)
+# Week 13 RevoU Assignment
+***
+<img align='center' width='900' src='https://github.com/hlmyrsyd/thereadmestuff/blob/main/100%25.svg' />
+
+## Hello!
+Hi my name is Hilmy, Good to see you here visiting my repo 
+This is React App creating CRUD Project.
+
+## DEPLOYMENT
+
+[Deployed Link](https://hlmyrsyd-week3.netlify.app/)
