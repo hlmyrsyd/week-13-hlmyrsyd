@@ -9,4 +9,4 @@ This is React App creating CRUD Project.
 
 ## DEPLOYMENT
 
-[Deployed Link](https://hlmyrsyd-week3.netlify.app/)
+[Deployed Link](http://192.168.1.4:3000)
