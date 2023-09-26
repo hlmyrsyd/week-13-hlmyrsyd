@@ -9,4 +9,4 @@ This is React App creating CRUD Project.
 
 ## DEPLOYMENT
 
-[Deployed Link](http://192.168.1.4:3000)
+[Deployed Link](http://192.168.0.134:3000)
